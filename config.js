@@ -23,8 +23,8 @@ global.lApiKey = {// if this API key get expired then please go to https://api.l
 
 
 global.botname = "Queen Anya" 
-global.author = "Enter Author Name Here"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
+global.author = "𝐒𝚯𝚮𝚫𝚴"  
+global.packname = "𝐊𝚫𝚭𝐔𝚻𝚯𝚪𝚫"  
 global.myweb = "Enter Your Any Website Profile Link Here"
 global.footer = "©\t" + "Enter Your Watermark Here"
 global.prefa = ['-'] // single prefix
